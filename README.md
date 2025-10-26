@@ -134,3 +134,5 @@ By opening a PR to add your project, you authorize and license Coinbase on a non
 ---
 
 If you have any questions, please reach out to us in #developer-chat in the [Base Discord](https://base.org/discord).
+
+gm from basefarmer67 — boosting score to 85+ on Base
